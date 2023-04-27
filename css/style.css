@@ -50,3 +50,66 @@ table {
 
 
 /* Write your css below here */
+
+aside{
+	width: 30%; 
+	float: right;
+	margin: 4%;
+	
+}
+
+body{
+	background-color: gray;
+}
+
+h1 {
+	margin: auto;
+	text-align: center;
+}
+
+
+.container{
+	margin-top: 60%;
+	width: 45%;
+	margin: auto;
+	height: 150vh;
+	text-align: left;
+	background-color: rgb(255, 255, 255);
+	
+}
+
+nav {
+display: flex;
+
+}
+
+footer{
+	background-color: blue;
+	height: 18%; 
+	margin-top: 45%;
+	color: white;
+	text-align: center;
+	bottom: 0;
+}
+
+.image1{ width: 100%; height: 90%; 
+
+}
+
+.items{
+	text-align: center;
+}
+.firstform{
+	align-items: center;
+	margin-top: 5%;
+
+}
+
+h3{
+	text-align: center;
+}
+
+table{
+	margin-top: 20%;
+	margin: auto;
+}
